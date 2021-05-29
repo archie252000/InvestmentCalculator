@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "InvestmentCalculator",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/NewAdaptiveIcon.png",
     "updates": {
@@ -16,7 +16,7 @@
         "foregroundImage": "./assets/NewAdaptiveIcon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "InvestmentCalculator.App"
+      "package": "com.aaryavrat.InvestmentCalculator"
     },
     "web": {
       "favicon": "./assets/favicon.png"
